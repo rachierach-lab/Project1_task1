@@ -155,8 +155,7 @@ This project demonstrates:
 * Returning responses using `@ResponseBody`
 * Implementing MVC architecture with Thymeleaf
 * Serving static resources
-
----
+----
 
 ## Notes
 
