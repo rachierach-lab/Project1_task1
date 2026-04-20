@@ -6,6 +6,7 @@ This project is a simple Spring Boot application created for Task 1.
 It demonstrates the basic functionality of a Spring application, including handling HTTP requests, returning responses, and displaying a web page using the MVC pattern.
 
 ---
+#
 
 ## Objectives
 
